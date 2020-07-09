@@ -23,7 +23,7 @@ class ChildCar extends Car {
     }
 }
 
-let car1 = new ChildCar("lambo", "purple")
+// let car1 = new ChildCar("lambo", "purple")
 
-console.log(car1.getDetailCar());
+// console.log(car1.getDetailCar());
 
