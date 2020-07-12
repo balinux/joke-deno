@@ -16,7 +16,7 @@ console.log(dataJoke);
 ```
 
 ## json response
-```json
+```js
 {
   categories: [ "money" ],
   created_at: "2020-01-05 13:42:28.664997",
